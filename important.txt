@@ -1,0 +1,5 @@
+some liberay are try to do use upper cases name of the file,
+some function ,file name should we capital
+some file force to use jsx as compared to js
+react-casual
+vitereact-disciplend
